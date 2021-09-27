@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to OCADU's INTM-2016-003 Homepage!
 
 You can use the [editor on GitHub](https://github.com/catmcginnis/INTM-2016-003/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
